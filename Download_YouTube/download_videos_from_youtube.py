@@ -6,8 +6,6 @@ from pytube import YouTube
 
 urls = [
     # Coloque aqui as urls dos videos que quer baixar.
-    'https://www.youtube.com/watch?v=_FE194VN6c4',
-    'https://www.youtube.com/watch?v=iDJfP6akZkY'
 ]
 
 for url in urls:
